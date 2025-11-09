@@ -74,6 +74,11 @@ This project explores **deep learning architectures**, model training, and evalu
 | Validation Accuracy | 88.45% |
 | Test Accuracy | 88.04% |
 
+<img width="1137" height="1189" alt="image" src="https://github.com/user-attachments/assets/7824d73f-7f5b-4cd9-bcd5-ee2bcf6ea5d1" />
+
+<img width="922" height="790" alt="image" src="https://github.com/user-attachments/assets/aeba2886-2e35-40e0-89bf-8bb0c18dc44e" />
+
+
 ---
 
 ## Future Improvements
